@@ -45,3 +45,6 @@ All perft tests pass:
 - Tactics: backrank, scholar, smothered
 - Determinism: identical outputs across runs
 - 60-ply audit: no crashes or timeouts
+
+
+*Last updated: 2026-11-18 19:53*
